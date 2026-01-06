@@ -1,4 +1,3 @@
----
 
 # Application Mobile - Gestion de Produits
 
@@ -44,8 +43,7 @@ git clone https://github.com/maroua-hamdi/mobile-projet.git
 
 > ![App](https://imgur.com/a/16ispZo)
 
----
 
 **Auteur** : MEDDAH Mohamed, HAMDI Maroua, EL GHAOUSSAL Oumaima
 
----
+
