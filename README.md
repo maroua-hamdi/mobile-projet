@@ -41,7 +41,7 @@ git clone https://github.com/maroua-hamdi/mobile-projet.git
 
 ## 📸 Aperçu
 
-> ![App](https://imgur.com/a/16ispZo)
+[Imgur](https://imgur.com/8t6zRiB)
 
 
 **Auteur** : MEDDAH Mohamed, HAMDI Maroua, EL GHAOUSSAL Oumaima
